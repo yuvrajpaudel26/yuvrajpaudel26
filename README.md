@@ -59,7 +59,7 @@
 ###
 
 - 🌱 I’m currently learning **DSA**
-- 📫 Reach me at **yuvrajpaudel007.com**
+- 📫 Reach me at **yuvrajpaudel007@gmail.com**
 - ⚡ Fun fact: **I Love Music**
 
 <!--
