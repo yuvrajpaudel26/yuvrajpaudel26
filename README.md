@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h2 align="center">Supp! 👋! am Yuvraj Paudel and I'm on my way to be a 100xAnalyst.</h2>
 
 ###
