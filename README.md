@@ -1,5 +1,5 @@
 
-<h2 align="center">Heyy! 👋! am Yuvraj Paudel and I'm on my way to be a 100xAnalyst.</h2>
+<h2 align="center">Heyy! 👋I am Yuvraj Paudel and I'm on my way to be a 100xAnalyst.</h2>
 
 ###
 
