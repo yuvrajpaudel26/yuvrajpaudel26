@@ -60,7 +60,7 @@
 ###
 
 - 🌱 I’m currently learning **AI/ML**
-- 📫 Reach me at **yuvrajpaudel007@gmail.com**
+- 📫 Reach me at **yuvrajpaudel2002@gmail.com**
 - ⚡ Fun fact: **I Love Playing Cricket**
 
 <!--
